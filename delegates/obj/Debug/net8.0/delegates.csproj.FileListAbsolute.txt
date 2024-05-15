@@ -1,0 +1,14 @@
+E:\OOP\delegates\delegates\bin\Debug\net8.0\delegates.exe
+E:\OOP\delegates\delegates\bin\Debug\net8.0\delegates.deps.json
+E:\OOP\delegates\delegates\bin\Debug\net8.0\delegates.runtimeconfig.json
+E:\OOP\delegates\delegates\bin\Debug\net8.0\delegates.dll
+E:\OOP\delegates\delegates\bin\Debug\net8.0\delegates.pdb
+E:\OOP\delegates\delegates\obj\Debug\net8.0\delegates.GeneratedMSBuildEditorConfig.editorconfig
+E:\OOP\delegates\delegates\obj\Debug\net8.0\delegates.AssemblyInfoInputs.cache
+E:\OOP\delegates\delegates\obj\Debug\net8.0\delegates.AssemblyInfo.cs
+E:\OOP\delegates\delegates\obj\Debug\net8.0\delegates.csproj.CoreCompileInputs.cache
+E:\OOP\delegates\delegates\obj\Debug\net8.0\delegates.dll
+E:\OOP\delegates\delegates\obj\Debug\net8.0\refint\delegates.dll
+E:\OOP\delegates\delegates\obj\Debug\net8.0\delegates.pdb
+E:\OOP\delegates\delegates\obj\Debug\net8.0\delegates.genruntimeconfig.cache
+E:\OOP\delegates\delegates\obj\Debug\net8.0\ref\delegates.dll
