@@ -1,3 +1,5 @@
 .idea
-/list/obj
+.claude/
+delegates/obj/
+delegates/bin/
 /bin/
