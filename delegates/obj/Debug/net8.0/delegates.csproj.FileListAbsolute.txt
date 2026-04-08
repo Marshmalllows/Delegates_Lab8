@@ -12,3 +12,4 @@ E:\OOP\delegates\delegates\obj\Debug\net8.0\refint\delegates.dll
 E:\OOP\delegates\delegates\obj\Debug\net8.0\delegates.pdb
 E:\OOP\delegates\delegates\obj\Debug\net8.0\delegates.genruntimeconfig.cache
 E:\OOP\delegates\delegates\obj\Debug\net8.0\ref\delegates.dll
+E:\OOP\delegates\delegates\obj\Debug\net8.0\delegates.sourcelink.json
